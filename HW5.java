@@ -5,7 +5,7 @@ import javax.swing.event.*;
 import java.lang.*;
 
 //www branch
-
+//bat hellow !!!
 public class HW5 extends JFrame {
 	
 	JRadioButton one = new JRadioButton("キらいと");
